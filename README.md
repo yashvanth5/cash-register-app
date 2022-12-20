@@ -16,3 +16,8 @@ HTML, CSS, Javascript
 # Live Project
 
 https://cutecashregister.netlify.app/
+
+# Screen Shots
+
+![cashregister](https://user-images.githubusercontent.com/116138513/208688675-3f69425f-e354-4e27-82d7-a372a638e080.PNG)
+
